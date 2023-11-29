@@ -1,0 +1,14 @@
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/bin/Debug/net8.0/BokFilm
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/bin/Debug/net8.0/BokFilm.deps.json
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/bin/Debug/net8.0/BokFilm.runtimeconfig.json
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/bin/Debug/net8.0/BokFilm.dll
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/bin/Debug/net8.0/BokFilm.pdb
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/obj/Debug/net8.0/BokFilm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/obj/Debug/net8.0/BokFilm.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/obj/Debug/net8.0/BokFilm.AssemblyInfo.cs
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/obj/Debug/net8.0/BokFilm.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/obj/Debug/net8.0/BokFilm.dll
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/obj/Debug/net8.0/refint/BokFilm.dll
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/obj/Debug/net8.0/BokFilm.pdb
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/obj/Debug/net8.0/BokFilm.genruntimeconfig.cache
+/Users/halvorsen/Documents/GetAcademy /PP/filmInfo/obj/Debug/net8.0/ref/BokFilm.dll
